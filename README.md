@@ -226,6 +226,7 @@ e)	Wired Headphones.
 >Total Revenue $34 Million
 
 **Monthly sales trends** 
+
 ![image](https://github.com/PavanKumarMereddy/SQL-Sales-Data-Analysis/assets/155641231/eec39865-e172-4635-b1d8-4459de537a11)
 
 ## Insights and Recommendations
